@@ -1,0 +1,11 @@
+{
+	"name": "Spasilac5",
+	"short_name": "Spasilac5",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#ffffff",
+	"icons": [],
+	"screenshots": []
+}
